@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Thanks for checking out my GitHub. 
+
+There's not much here yet, but i'm learning new things every day so there probably will be some sort of cool contraption when you check back. 
+
+Reach me at eric_zafarani@yahoo.co.uk. 
+
 <!--
 **TketEZ/tketEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
