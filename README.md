@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Erfan, a MSc Computer Science student at UCL. I'm going to graduate in September 2021 (give or take a few pandemics). Thanks for checking out my GitHub!
+I'm Erfan, a MSc Computer Science student at UCL. Thanks for checking out my GitHub!
 
 ## My projects
 
