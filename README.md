@@ -1,8 +1,12 @@
 # Hello! 👋
 
-Thanks for checking out my GitHub. 
+I'm Erfan, a MSc Computer Science student at UCL. I'm going to graduate in September 2021 (give or take a few pandemics). Thanks for checking out my GitHub!
+
+## My projects
 
 There's not much here yet, but i'm learning new things every day so there probably will be some sort of cool contraption when you check back. 
+
+## Contact me
 
 Reach me at eric_zafarani@yahoo.co.uk. 
 
