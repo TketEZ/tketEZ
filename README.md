@@ -4,7 +4,7 @@ I'm Erfan, a MSc Computer Science student at UCL. Thanks for checking out my Git
 
 ## My projects 
 
-There's a few projects here already, and i'm learning new things every day so there will probably be some more cool contraptions when you next check back here. The really exciting things are in my private repositories, which you'll have to ask me about when we next talk 😀 
+There's a few projects here already, and i'm learning new things every day so there will probably be some more cool contraptions when you next check back. 
 
 ## Contact me 📫 
 
